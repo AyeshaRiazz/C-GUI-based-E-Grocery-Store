@@ -1,0 +1,3 @@
+2 Beef 750 0
+3 Mutton 800 1
+4 Fish 230 0

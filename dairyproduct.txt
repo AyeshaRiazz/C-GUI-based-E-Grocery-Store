@@ -1,0 +1,9 @@
+1 Milk 200 0
+2 Cream 430 1
+3 Eggs 500 0
+4 Cheese 750 1
+6 Butter 450 1
+7 Quark 890 2
+8 Ghee 670 0
+9 Brie 673 0
+

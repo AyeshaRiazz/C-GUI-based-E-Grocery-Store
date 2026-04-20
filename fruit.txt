@@ -1,0 +1,7 @@
+1 Apple 330 1
+2 Apricot 180 2
+3 Orange 300 0
+4 Mango 330 1
+5 Peach 200 0
+6 Banana 430 0
+7 Lychee 230 1

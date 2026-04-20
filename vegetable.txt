@@ -1,0 +1,7 @@
+1 Potato 50 0
+2 Tomato 30 0
+3 Onion 60 0
+4 Garlic 60 0
+5 Ginger 80 0
+6 Brinjal 100 0
+
